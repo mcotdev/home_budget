@@ -22,8 +22,8 @@ Run the app from the commandline.
 python3 python3 budget-forecast.py
 ```
 
-Enter the current balance of your account:
+> Enter the current balance of your account:
 
-Enter forecast length in years:
+> Enter forecast length in years:
 
-The result will be a table on the command line and a streamlit line graph in your browser.
+> The result will be a table on the command line and a streamlit line graph in your browser.
