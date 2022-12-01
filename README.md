@@ -28,3 +28,10 @@ python3 budget-forecast.py
 The result will be a table on the command line and a streamlit line graph in your browser.
 
 Feel free to fork, change and improve it.
+
+## ToDos
+- create custom monthly offset similar to MS etc. Ideally MS + x number of days.
+- create a GUI for a desktop app (tkinter or whiptail)
+- create the entire thing in streamlit
+- create a dashboard
+- create better error checking
