@@ -26,4 +26,4 @@ python3 python3 budget-forecast.py
 
 > Enter forecast length in years:
 
-> The result will be a table on the command line and a streamlit line graph in your browser.
+The result will be a table on the command line and a streamlit line graph in your browser.
