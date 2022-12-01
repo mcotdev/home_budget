@@ -19,7 +19,7 @@ Edit the database as required with income and expenses.
 Run the app from the commandline.
 
 ```
-python3 python3 budget-forecast.py
+python3 budget-forecast.py
 ```
 
 > Enter the current balance of your account:
